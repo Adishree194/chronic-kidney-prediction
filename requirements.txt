@@ -6,5 +6,8 @@ io
 scikit-learn
 numpy
 boruta
+matplotlib
+seaborn
+plotly
 
 -e .
