@@ -9,5 +9,3 @@ boruta
 matplotlib
 seaborn
 plotly
-
--e .
